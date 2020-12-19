@@ -1,0 +1,12 @@
+.card[data-v-2edc5dc4]{border:none;box-shadow:0px 1px 2px black;transition:transform 100ms}.card[data-v-2edc5dc4]:hover{transform:scale(1.05)}
+
+.list-group-item[data-v-3b8ea60a]{z-index:1}
+
+.spinner[data-v-597d1897]{margin:0 auto;width:40px;height:40px;display:flex;justify-content:space-around}.spinner .rect[data-v-597d1897]{background-color:#eceeec;height:100%;width:6px;-webkit-animation:sk-stretchdelay-data-v-597d1897 1.2s infinite ease-in-out;animation:sk-stretchdelay-data-v-597d1897 1.2s infinite ease-in-out}.spinner .rect1[data-v-597d1897]{-webkit-animation-delay:-0.4s;animation-delay:-0.4s}.spinner .rect2[data-v-597d1897]{-webkit-animation-delay:-0.3s;animation-delay:-0.3s}.spinner .rect3[data-v-597d1897]{-webkit-animation-delay:-0.2s;animation-delay:-0.2s}.spinner .rect4[data-v-597d1897]{-webkit-animation-delay:-0.1s;animation-delay:-0.1s}.spinner .rect5[data-v-597d1897]{-webkit-animation-delay:0s;animation-delay:0s}@-webkit-keyframes sk-stretchdelay-data-v-597d1897{0%,40%,100%{-webkit-transform:scaleY(0.4)}20%{-webkit-transform:scaleY(1)}}@keyframes sk-stretchdelay-data-v-597d1897{0%,40%,100%{transform:scaleY(0.4);-webkit-transform:scaleY(0.4)}20%{transform:scaleY(1);-webkit-transform:scaleY(1)}}
+
+.image[data-v-e63b62fa]{-o-object-fit:cover;object-fit:cover}.card:hover .play[data-v-e63b62fa],.active-card .play[data-v-e63b62fa]{box-sizing:border-box;width:0;height:0;position:absolute;border-style:solid;top:0;bottom:0;left:0;right:0;margin:auto;border-width:24px 0 24px 41.568px;border-color:transparent transparent transparent #eceeec}.active-card[data-v-e63b62fa]{border-bottom:solid 2px #F47520}.length[data-v-e63b62fa]{position:absolute;bottom:2px;right:2px}.watched[data-v-e63b62fa]{position:absolute;left:4px;bottom:4px}.card[data-v-e63b62fa]{overflow:hidden}.watched-grey[data-v-e63b62fa]{position:absolute;width:100%;height:100%;top:0;left:0;background:rgba(100,100,100,0.5)}
+
+.collection[data-v-c5b4895a]{flex-wrap:nowrap;overflow-x:scroll;padding:1rem;position:relative}div[data-v-c5b4895a]::-webkit-scrollbar{height:12px}div[data-v-c5b4895a]::-webkit-scrollbar-thumb{background-color:#070707;border-radius:4px}div[data-v-c5b4895a]::-webkit-scrollbar-thumb:hover{background-color:#666}
+
+.content-box[data-v-562a80e1]{background:#111;padding:1rem;box-shadow:0px 1px 2px black;border-radius:0 0 0.2rem 0.2rem}.title[data-v-562a80e1]{font-size:1.5rem}.sub-title[data-v-562a80e1]{font-size:1.25rem}
+
